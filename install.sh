@@ -2,4 +2,7 @@
 
 pacman -Syu
 
-pacman -Sy  libreoffice-fresh keepassxc
+pacman -Sy  libreoffice-fresh \
+  keepassxc \
+  firefox \
+  code
