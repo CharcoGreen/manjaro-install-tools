@@ -9,7 +9,8 @@ pacman -Sy  libreoffice-fresh \
   code \
   yay \
   copyq \
-  thunderbird
+  thunderbird \
+  okular
 
 
 
