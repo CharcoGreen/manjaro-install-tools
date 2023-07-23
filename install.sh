@@ -7,7 +7,8 @@ pacman -Sy  libreoffice-fresh \
   keepassxc \
   firefox \
   code \
-  yay
+  yay \
+  copyq
 
 
 
