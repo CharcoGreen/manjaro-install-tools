@@ -17,3 +17,6 @@ yay -S google-chrome \
   tmux \
   teams \
   docker
+
+
+  systemctl enable docker && systemctl start docker
