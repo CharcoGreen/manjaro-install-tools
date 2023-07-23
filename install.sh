@@ -15,4 +15,5 @@ pacman -Sy  libreoffice-fresh \
 
 yay -S google-chrome \
   tmux \
-  teams
+  teams \
+  docker
