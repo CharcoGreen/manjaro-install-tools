@@ -8,7 +8,8 @@ pacman -Sy  libreoffice-fresh \
   firefox \
   code \
   yay \
-  copyq
+  copyq \
+  thunderbird
 
 
 
