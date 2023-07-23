@@ -8,3 +8,9 @@ pacman -Sy  libreoffice-fresh \
   firefox \
   code \
   yay
+
+
+
+# Intall from yay
+
+yay -S google-chrome
