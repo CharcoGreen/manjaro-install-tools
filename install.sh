@@ -13,4 +13,5 @@ pacman -Sy  libreoffice-fresh \
 
 # Intall from yay
 
-yay -S google-chrome
+yay -S google-chrome \
+  tmux 
